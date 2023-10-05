@@ -1,0 +1,4 @@
+1.Using create react app framework for project
+2.Using material UI for icons and styled components
+3.Project uses axios to make API calls.
+4.Project uses react router dom for routing
