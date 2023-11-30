@@ -39,4 +39,4 @@ This project is a YouTube clone built using React, Redux, and RapidAPI. It allow
 * Browse popular videos
 * See video information, such as title, description, and channel
 
-**Live App:** [https://youtube-clone-ten-ashen.vercel.app/]  ### Contributions
+**Live App:** https://youtube-clone-ten-ashen.vercel.app/
